@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <server>
-<name>github.com/moowahaha/pear</name>
+<name>moowahaha.github.com/pear</name>
 <summary>Moowahaha's PEAR Channel</summary>
 <alias>moowahaha</alias>
-<url>http://www.github.com/moowahaha/pear</url>
+<url>http://moowahaha.github.com/pear</url>
 </server>
