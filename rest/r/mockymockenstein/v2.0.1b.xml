@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
     <p xlink:href="/rest/p/mockymockenstein">MockyMockenstein</p>
     <c>moowahaha.github.com/pear</c>
-    <v>0.1</v>
+    <v>0.1b</v>
+    <a>0.1b</a>
+    <mp>5.3.0</mp>
     <st>alpha</st>
     <l>BSD</l>
     <m>moowahaha</m>
     <s>PHP mocking framework for allows regular &amp; static mocking plus monkey patching real classes.</s>
     <d>PHP mocking framework for allows regular &amp; static mocking plus monkey patching real classes.</d>
-    <da>2012-04-29 15:59:50</da>
+    <da>2012-04-29 16:12:27</da>
     <n>
 https://github.com/moowahaha/MockyMockenstein#readme
  </n>
-    <f>8989</f>
-    <g>http://moowahaha.github.com/pear/get/MockyMockenstein-0.1</g>
-    <x xlink:href="package.0.1.xml"/>
+    <f>8946</f>
+    <g>http://moowahaha.github.com/pear/get/MockyMockenstein-0.1b</g>
+    <x xlink:href="package.0.1b.xml"/>
 </r>

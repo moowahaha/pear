@@ -16,11 +16,19 @@
                 <v>0.1</v>
                 <s>alpha</s>
             </r>
+            <r>
+                <v>0.1b</v>
+                <s>alpha</s>
+            </r>
 
         </a>
 
         <deps>
             <v>0.1</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.5.6";}s:7:"package";a:3:{s:4:"name";s:12:"test_helpers";s:7:"channel";s:15:"pear.phpunit.de";s:3:"min";s:5:"1.1.0";}}}</d>
+        </deps>
+        <deps>
+            <v>0.1b</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.5.6";}s:7:"package";a:3:{s:4:"name";s:12:"test_helpers";s:7:"channel";s:15:"pear.phpunit.de";s:3:"min";s:5:"1.1.0";}}}</d>
         </deps>
 

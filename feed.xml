@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://moowahaha.github.com/pear</id>
-    <updated>2012-04-29T12:00:02-04:00</updated>
+    <updated>2012-04-29T12:12:29-04:00</updated>
     <title>Moowahaha's PEAR Channel Latest Releases</title>
     <link href="http://moowahaha.github.com/pear/feed.xml" rel="self" />
     <author>
@@ -16,6 +16,19 @@
             <name>moowahaha</name>
         </author>
         <updated>2012-04-29T15:59:50-04:00</updated>
+        <content>
+            
+https://github.com/moowahaha/MockyMockenstein#readme
+ 
+        </content>
+    </entry>    <entry>
+        <title>MockyMockenstein 0.1b (alpha)</title>
+        <link href="http://moowahaha.github.com/pear/get/MockyMockenstein-0.1b.tgz" />
+        <id>http://moowahaha.github.com/pear/get/MockyMockenstein-0.1b.tgz</id>
+        <author>
+            <name>moowahaha</name>
+        </author>
+        <updated>2012-04-29T16:12:27-04:00</updated>
         <content>
             
 https://github.com/moowahaha/MockyMockenstein#readme
