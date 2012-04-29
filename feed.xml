@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://www.github.com/moowahaha/pear</id>
+    <updated>2012-04-29T11:05:19-04:00</updated>
+    <title>Moowahaha's PEAR Channel Latest Releases</title>
+    <link href="http://www.github.com/moowahaha/pear/feed.xml" rel="self" />
+    <author>
+        <name>http://www.github.com/moowahaha/pear</name>
+    </author>
+
+
+</feed>
